@@ -1,3 +1,3 @@
 ## A portfolio website for my freelance composing hobby.
 
-# Built in the Laravel framework with Bootstrap 3.1.
+Designed over a custom Bootstrap 3.1 theme.
