@@ -65,14 +65,15 @@
 		<div class="container">
 			<div class="row centered">
 				<div class="col-lg-4">
-					<p><b>WEB DESIGNER, DEVELOPER & GAME ADDICT</b></p>
+					<p>Copyright &copy; {{ date("Y") }}. All Rights Reserved.</p>
 				</div>
 			
 				<div class="col-lg-4">
-					<p>Living in the amazing London.</p>
+					<p><a href="https://twitter.com/plazajosue"><i class="fa fa-twitter fa-2x"></i></a></p>
+          <p><a href="mailto:covomusic@gmail.com?Subject=Hello%20Covo" target="_top"><i class="fa fa-paper-plane fa-2x"></i></a>
 				</div>
 				<div class="col-lg-4">
-					<p>hello@instant.com</p>
+					<p>covomusic@gmail.com</p>
 				</div>
 			</div>
 		</div>
