@@ -11,9 +11,9 @@
 				<h1>COVO</h1>
 				<h4>COMPOSER &amp; GAME ADDICT</h4>
 			</div>
-		</div><! --/row -->
-    </div> <!-- /container -->
-</div><! --/headerwrap -->
+		</div>
+    </div>
+</div>
 
 <section id="works"></section>
 <div class="container">
@@ -44,8 +44,42 @@
 			<h3>Danger</h3>
 			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false"></iframe>
 		</div>
-	</div><! --/row -->
-</div><! --/container -->
+	</div>
+</div>
+
+<section id="about"></section>
+<div class="container about">
+	<div class="row">
+		<div class="centered">
+			<h1>About Me</h1>
+		</div>
+		<div class="col-lg-3 col-md-6 col-sm-12">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+		<div class="col-lg-3 col-md-6 col-sm-12">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+		<div class="col-lg-3 col-md-6 col-sm-12">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+	</div>
+</div>
+
 
 @stop
 
