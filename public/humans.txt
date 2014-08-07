@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Josue Plaza, junior full stack web developer
+
+# THANKS
+
+    Everyone who contributed to the technologies below.
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr, Bootstrap 3.1, Laravel, developed in a vagrant box in Linux
