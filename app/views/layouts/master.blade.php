@@ -71,9 +71,13 @@
 				</div>
 			
 				<div class="col-lg-4">
-					<p><a href="https://twitter.com/plazajosue"><i class="fa fa-twitter-square fa-2x"></i></a>
-          <a href="https://soundcloud.com/covoofficial"><i class="fa fa-soundcloud fa-2x"></i></a>
-          <a href="mailto:covomusic@gmail.com?Subject=Hello%20Covo" target="_top"><i class="fa fa-envelope-square fa-2x"></i></a></p>
+					<p>
+            <a href="https://facebook.com/covoofficial"><i class="fa fa-facebook-square fa-2x"></i></a>
+            <a href="https://twitter.com/plazajosue"><i class="fa fa-twitter-square fa-2x"></i></a>
+            <a href="https://soundcloud.com/covoofficial"><i class="fa fa-soundcloud fa-2x"></i></a>
+            <a href="mailto:covomusic@gmail.com?Subject=Hello%20Covo" target="_top"><i class="fa fa-envelope-square fa-2x"></i></a>
+            <a href="tel:+2108279222"><i class="fa fa-phone-square fa-2x"></i></a>
+          </p>
 				</div>
 				<div class="col-lg-4">
 					<p>covomusic@gmail.com</p>
