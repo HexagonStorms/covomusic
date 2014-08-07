@@ -1,0 +1,16 @@
+.about {
+	background-color: #000;
+}
+
+.about h1, p {
+	color: #fff;
+}
+
+.navbar-default {
+	background-color: #FFF;
+	border-color: #FFF;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	background-color: #000;
+}
