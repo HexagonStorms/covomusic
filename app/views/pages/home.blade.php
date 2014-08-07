@@ -21,22 +21,22 @@
 		<h1>My Portfolio</h1>
 		
 		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<a href="work.html"><img src="assets/img/portfolio/folio01.png" class="img-responsive"></a>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
 		</div>
 		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<a href="work.html"><img src="assets/img/portfolio/folio02.png" class="img-responsive"></a>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
 		</div>
 		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<a href="work.html"><img src="assets/img/portfolio/folio03.png" class="img-responsive"></a>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
 		</div>
 		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<a href="work.html"><img src="assets/img/portfolio/folio04.png" class="img-responsive"></a>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
 		</div>
 		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<a href="work.html"><img src="assets/img/portfolio/folio05.png" class="img-responsive"></a>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
 		</div>
 		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<a href="work.html"><img src="assets/img/portfolio/folio06.png" class="img-responsive"></a>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
 		</div>
 	</div><! --/row -->
 </div><! --/container -->
