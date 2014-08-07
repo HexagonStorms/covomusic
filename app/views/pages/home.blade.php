@@ -20,52 +20,32 @@
 	<div class="row centered mt mb">
 		<h1>My Portfolio</h1>
 		
-		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+		<div class="col-lg-2 col-md-2 col-sm-2 gallery">
+			<h3>Classical</h3>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false"></iframe>
 		</div>
-		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+		<div class="col-lg-2 col-md-2 col-sm-2 gallery">
+			<h3>Metal</h3>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false"></iframe>
 		</div>
-		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+		<div class="col-lg-2 col-md-2 col-sm-2 gallery">
+			<h3>Electronic</h3>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false"></iframe>
 		</div>
-		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+		<div class="col-lg-2 col-md-2 col-sm-2 gallery">
+			<h3>Horror</h3>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false"></iframe>
 		</div>
-		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+		<div class="col-lg-2 col-md-2 col-sm-2 gallery">
+			<h3>Encounter</h3>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false"></iframe>
 		</div>
-		<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+		<div class="col-lg-2 col-md-2 col-sm-2 gallery">
+			<h3>Danger</h3>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72997606&amp;color=32beeb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false"></iframe>
 		</div>
 	</div><! --/row -->
 </div><! --/container -->
-
-<div id="social">
-	<div class="container">
-		<div class="row centered">
-			<div class="col-lg-2">
-				<a href="#"><i class="fa fa-dribbble"></i></a>
-			</div>
-			<div class="col-lg-2">
-				<a href="#"><i class="fa fa-facebook"></i></a>
-			</div>
-			<div class="col-lg-2">
-				<a href="#"><i class="fa fa-twitter"></i></a>
-			</div>
-			<div class="col-lg-2">
-				<a href="#"><i class="fa fa-linkedin"></i></a>
-			</div>
-			<div class="col-lg-2">
-				<a href="#"><i class="fa fa-instagram"></i></a>
-			</div>
-			<div class="col-lg-2">
-				<a href="#"><i class="fa fa-tumblr"></i></a>
-			</div>
-		
-		</div><! --/row -->
-	</div><! --/container -->
-</div><! --/social -->
 
 @stop
 
