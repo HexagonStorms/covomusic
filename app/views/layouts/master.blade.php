@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
 	<meta name="viewport" content="width=device-width" />
 	<meta name="author" content="Josue Plaza">
 	<meta property="og:title" content="Covo">
@@ -12,7 +11,6 @@
 	<meta property="og:site_name" content="Josue Plaza">
 	<meta property="og:description" content="Covo game music composer">
 	<meta name="keywords" content="Covo, Josue, Plaza, game, music, composer">
-	<!-- <meta property="og:image" content=""> -->
 	<link rel="shortcut icon" href="#" />
 
     <title>@yield('title')</title>
