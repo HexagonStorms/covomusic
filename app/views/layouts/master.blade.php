@@ -22,6 +22,9 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
 
+    <!-- Josue Plaza's custom styles -->
+    <link href="assets/css/josuestyle.css" rel="stylesheet">
+
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
@@ -50,7 +53,8 @@
           <ul class="nav navbar-nav navbar-right">
             <li class="active"><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
-            <li><a href="#works">Works</a></li>
+            <li><a href="#works">Work</a></li>
+            <li><a href="#works">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
