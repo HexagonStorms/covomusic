@@ -1,5 +1,11 @@
 @extends('layouts.master')
 
+@section('title')
+
+Covo Music | Home
+
+@stop
+
 @section('content')
 
 <!-- Jumbotron Header -->
