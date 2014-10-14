@@ -15,7 +15,7 @@ Covo Music | Home
 			<div class="col-lg-6 col-lg-offset-3">
 				<h4>HELLO, MY NAME IS</h4>
 				<h1>COVO</h1>
-				<h4>COMPOSER &amp; GAME ADDICT</h4>
+				<h4>COMPOSER &amp; PRODUCER</h4>
 			</div>
 		</div>
     </div>
